@@ -1,0 +1,18 @@
+module.exports = {
+  collections_config: {
+    posts: {
+      name: "Posts",
+      path: "src/_posts", // Verify this
+      parser: "frontmatter", // Verify this
+      output: true,
+      url: "/posts/[slug]",
+    },
+    pages: {
+      name: "Pages",
+      path: "pages", // Verify and update this
+      parser: "frontmatter", // Verify and update this
+      output: true,
+      url: "/[slug]",
+    }
+  },
+};
