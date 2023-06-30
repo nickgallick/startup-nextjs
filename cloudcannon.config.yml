@@ -6,8 +6,8 @@ collections_config:
     output: true
     url: "/posts/[slug]"
   pages:
-    name: "Pages"
-    path: "pages"
+    name: "App"
+    path: "app"
     parser: "frontmatter"
     output: true
     url: "/[slug]"
