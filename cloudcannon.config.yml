@@ -2,13 +2,13 @@ collections_config:
   posts:
     name: "Posts"
     path: "src/_posts"
-    parser: "JSON"
+    parser: "frontmatter"
     output: true
     url: "/posts/[slug]"
   pages:
     name: "Pages"
     path: "pages"
-    parser: "JSON"
+    parser: "frontmatter"
     output: true
     url: "/[slug]"
 
