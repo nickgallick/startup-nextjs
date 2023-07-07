@@ -7,7 +7,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="Uber Kiwi LLC is an innovative internet-based startup company dedicated to creating niche-based content-driven websites that serve as a vital bridge between businesses and consumers. Our primary goal is to bring consumers to businesses within specific niches while generating revenue primarily through ad and affiliate network monetization."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
