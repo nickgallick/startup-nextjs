@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                paragraph="Uber Kiwi LLC is an innovative internet-based startup company dedicated to creating niche-based content-driven websites that serve as a vital bridge between businesses and consumers. Our primary goal is to bring consumers to businesses within specific niches while generating revenue primarily through ad and affiliate network monetization."
                 mb="44px"
               />
 
